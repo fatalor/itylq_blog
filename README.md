@@ -1,4 +1,4 @@
-# itylq
+# IT摇篮曲
 博客介绍：IT摇篮曲(www.itylq.com)
 IT摇篮曲汇聚网络运维、软件下载激活、科技新闻、桌面壁纸、私有云盘、mysql数据库、自动化运维、linux系统学习、windows系统、helpdesk等相关技术领域文章，力行原创，为用户提供最新、最全、低门槛可复制性操作的内容。技术创造价值，简单传递美好，让我们一起探索前行。
 keyword:IT摇篮曲,itylq,linux系统,windows系统,网络管理,HCNA,HCNP,HCIE,CCNA,CCNP,CCIE,运维,helpdesk,绿色软件,破解软件,软件激活,私有云盘,wordpress插件,Script脚本,python编程,mysql数据库,自动化运维,接口开发,在线工具
